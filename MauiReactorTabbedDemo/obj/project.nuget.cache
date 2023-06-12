@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+2fN2TyUAfbmdO16a6r3Z9eEw6wTnazhgM/deU7Ow3r/vqQX9RgMLXk0lQgZR9S95oUkooYUloa5P1f7u3Zf/g==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Cybg\\Desktop\\rx\\MauiReactorTabbedDemo\\MauiReactorTabbedDemo.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "一个或多个目标框架的平台版本未显示，但它们已指定平台: net7.0-android, net7.0-ios, net7.0-maccatalyst"
+    }
+  ]
+}
